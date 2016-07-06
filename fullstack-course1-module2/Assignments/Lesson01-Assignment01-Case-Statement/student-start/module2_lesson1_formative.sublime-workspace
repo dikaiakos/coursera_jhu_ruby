@@ -1,0 +1,401 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"sm",
+				"small	 bootstrap.min.css"
+			],
+			[
+				"navb",
+				"navbar-brand	 bootstrap.min.css"
+			],
+			[
+				"visi",
+				"visible-print	 bootstrap.min.css"
+			],
+			[
+				"navbar-fix",
+				"navbar-fixed-top	 bootstrap.min.css"
+			],
+			[
+				"le",
+				"lead	 bootstrap.min.css"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"btn-group",
+				"btn-group-justified	 bootstrap.min.css"
+			],
+			[
+				"page",
+				"page-header	 bootstrap.min.css"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"P",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"func",
+				"func main	func main {...} ʂ"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: epl425"
+			],
+			[
+				"Snippet: epl",
+				"Snippet: epl425"
+			],
+			[
+				"Snippet: epl4",
+				"Snippet: epl425"
+			],
+			[
+				"Snippet: html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: htm",
+				"Snippet: Blank HTML Page"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKAGE",
+				"Package Control: Install Package"
+			],
+			[
+				"goimpo",
+				"GoSublime: Go to imports section"
+			],
+			[
+				"goora",
+				"Set Syntax: GoOracle Results"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"glue",
+				"GoSublime: User Settings"
+			],
+			[
+				"Packa",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"go run echo4.go",
+			"go run echo4",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h =     '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"go run echo2.go",
+			"go run echo2.go hi hi hi",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mdd/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/mdd/src/epl425/schedule.html",
+		"/Users/mdd/src/test_app/app/test.rb",
+		"/Users/mdd/Library/Application Support/Sublime Text 3/Packages/GoSublime/9o.md",
+		"/Users/mdd/src/epl425/contract.html",
+		"/Users/mdd/src/epl425/epl425.css",
+		"/Users/mdd/src/epl425/assignments.html",
+		"/Users/mdd/src/epl425/index.html",
+		"/Users/mdd/src/epl425/resources.html",
+		"/Users/mdd/Library/Application Support/Sublime Text 3/Packages/User/epl425.sublime-snippet",
+		"/Users/mdd/src/epl425/epl425.sublime-snippet",
+		"/Users/mdd/src/bootstrap/bootstrap/03_01.html",
+		"/Users/mdd/src/bootstrap/bootstrap/bootstraptut.html",
+		"/Users/mdd/Library/Application Support/Sublime Text 3/Packages/User/epl425/epl425.sublime-snippet",
+		"/Users/mdd/src/bootstrap/bootstrap/test.html",
+		"/Users/mdd/Library/Application Support/Sublime Text 3/Packages/User/html-html5.sublime-snippet",
+		"/Users/mdd/src/epl425.sublime-project",
+		"/Users/mdd/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/mdd/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/mdd/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/mdd/src/bootstrap/bootstrap/css/bootstrap.css",
+		"/Users/mdd/src/bootstrap/bootstrap/css/bootstrap.min.css",
+		"/Users/mdd/src/bootstrap/bootstrap/02_04.html",
+		"/Users/mdd/src/bootstrap/bootstrap/02_06.html",
+		"/Users/mdd/src/bootstrap/bootstrap/grid.html",
+		"/Users/mdd/src/bootstrap/bootstrap/02_02.html",
+		"/Users/mdd/src/bootstrap/bootstrap/02_03.html",
+		"/Users/mdd/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mdd/src/bootstrap/bootstrap/css/custom.css",
+		"/Users/mdd/src/bootstrap/02_02.html",
+		"/Users/mdd/src/bootstrap/bootstrap/index.html",
+		"/Users/mdd/src/bootstrap/Chapter 2/02_02/02_02.html",
+		"/Users/mdd/src/bootstrap-3.3.6-dist/css/bootstrap.css",
+		"/Users/mdd/src/gocode/src/gopl.io/ch2/tempconv/tempconv.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch2/popcount/popcount_test.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch2/tempconv/conv.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch2/popcount/main.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch2/tempconv/tempconv.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch2/tempconv/main.go",
+		"/Users/mdd/src/gocode/src/gopl.io/ch2/tempconv/conv.go",
+		"/Users/mdd/src/gocode/src/gopl.io/ch2/cf/main.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch2/main.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch2/echo4/main.go",
+		"/Users/mdd/src/gocode/src/gopl.io/ch1/lissajous/main.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch2/test.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch2/echo4.go",
+		"/Users/mdd/src/bootstrap-3.3.6-dist/css/untitled.css",
+		"/Users/mdd/src/bootstrap-3.3.6-dist/js/respond.js",
+		"/Users/mdd/src/bootstrap-3.3.6-dist/index.html",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch1/echo1/main.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch1/dup3/dup3.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch1/dup1/main.go",
+		"/Users/mdd/src/gocode/src/golang.org/x/tools/go/ssa/interp/map.go",
+		"/Users/mdd/src/gocode/src/golang.org/x/tools/godoc/vfs/os.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch1/dup2/main.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch1/echo2/main.go",
+		"/Users/mdd/src/gocode/src/gopl.io/ch1/echo3/main.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch1/echo3/main.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch1/echo.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch1/echo2.go",
+		"/Users/mdd/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/ch1/terminal.glue",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/string/string.go",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/hello/hello.go",
+		"/Users/mdd/Library/Application Support/Sublime Text 3/Packages/User/Glue.sublime-settings",
+		"/Users/mdd/src/gocode/src/github.com/dikaiakos/hello/terminal.glue",
+		"/Users/mdd/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/mdd/Library/Application Support/Sublime Text 3/Packages/GoSublime/README.md",
+		"/Users/mdd/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"no-wrap",
+			"w5-",
+			"w4-",
+			"w3-",
+			"aax",
+			"w3-",
+			"basics",
+			"\n						",
+			"no-wrap",
+			"visibl",
+			", ",
+			"nav-ta",
+			"collapse",
+			"column",
+			"col-lg",
+			")\" ",
+			"`>\"",
+			"package"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"w6-",
+			"w5-",
+			"w4-"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/mdd/src/coursera-ruby/fullstack-course1-module2/Assignments/Lesson01-Assignment01-Case-Statement/student-start":
+	{
+		"height": 112.0
+	},
+	"output.9o:///Users/mdd/src/test_app/app":
+	{
+		"height": 187.0
+	},
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "module2_lesson1_formative.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sc",
+				"epl425/schedule.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/src/gocode/src/github.com/dikaiakos/ch1/dup1/main.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
